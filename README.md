@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**hegnerbrandao/hegnerbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hegner Brandão
+WELCOME TO MY GITHUB! 🚀
 
-Here are some ideas to get you started:
+Feel free to explore and make yourself at home — but remember: the code here is not always in production… sometimes it’s in “scientific observation mode”.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find bugs, congratulations — you’ve officially joined the development process.
+
+And remember: production + Friday = forbidden combination ☕🚫
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hegnerbrandao&show_icons=true)
+
+## Contact 📫 
+
+- LinkedIn: www.linkedin.com/in/hegner-brand%C3%A3o-711b85205/
