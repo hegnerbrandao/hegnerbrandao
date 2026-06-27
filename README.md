@@ -78,7 +78,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 />
 
 <br/>
+<br/>
+
 ---
+
 ### 📊 
 
 <p>
@@ -99,14 +102,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 </p>
 <br/>
+<br/>
+
+---
 
 ## Find me on LinkedIn: 
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="Linkedin" 
+    title="Linkedin"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-/> "[Hegner Brandão](https://www.linkedin.com/in/hegnerbrandão/)"
+/> [Hegner Brandão](https://www.linkedin.com/in/hegnerbrandão/)
 
