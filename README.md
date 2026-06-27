@@ -78,9 +78,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 />
 
 <br/>
-<br/>
-
-### 📊 ---
+---
+### 📊 
 
 <p>
   <img 
@@ -95,11 +94,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegnerbrandao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hegnerbrandao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
-
+<br/>
 
 ## Find me on LinkedIn: 
 <img 
